@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ma02_20200986</string>
+    <string name="naver_api_url">https://openapi.naver.com</string>
+    <string name="google_api_url">https://maps.googleapis.com</string>
+    <string name="client_id">4bYKxTqeChhjkLiBks6P</string>
+    <string name="client_secret">F5xQIqm6b1</string>
+    <string name="api_key">AIzaSyDWOBfpXXvAxOCvC0cFljSywt4dM4h6Rx8</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+</resources>
